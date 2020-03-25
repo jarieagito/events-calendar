@@ -19,7 +19,7 @@ tbody td {
 }
 
 .remember {
-  border-color: #b92828;
+  border-color: #b92828 #991919;
   background-color: #f2bcbc;
 }
 
@@ -28,7 +28,17 @@ tbody td {
   background-color: #d1e0bf;
 }
 
+.islandlike {
+  border-color: #51603f;
+  background-color: #d1e0bf;
+}
+
 .purp {
   border-color: #1d38da;
   background-color: #d2d6f0;
+}
+
+.purpy {
+  background-color: #d2d6f0;
+  border-color: #38448e;
 }
