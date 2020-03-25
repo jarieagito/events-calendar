@@ -2,11 +2,33 @@ html {
   font-family: Merriweather, serif;
 }
 
-.event {
-  border: solid 1px;
-  border-radius: 8px;
+td,
+th {
+  border: 1px #ccc solid;
 }
 
-.day {
+tbody td {
+  height: 11em;
+}
 
+.event {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  border-radius: 8px;
+  color: #333;
+}
+
+.remember {
+  border-color: #b92828;
+  background-color: #f2bcbc;
+}
+
+.island {
+  border-color: #6b7e54;
+  background-color: #d1e0bf;
+}
+
+.purp {
+  border-color: #1d38da;
+  background-color: #d2d6f0;
 }
